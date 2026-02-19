@@ -198,7 +198,7 @@ To get a Gemini API key:
 ### 4. Run the Application
 
 ```bash
-streamlit run d5__1_.py
+streamlit run d5.py
 ```
 
 The application will open in your default web browser at `http://localhost:8501`
